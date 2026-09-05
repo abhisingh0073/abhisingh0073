@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e3a8a,100:06b6d4&height=160&text=Abhishek%20Kumar%20Singh&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=CSE%20%7C%20Cyber%20Security%20%7C%20Backend%20Engineering&descAlignY=70&descSize=16"/>
+# 👋 Hii, I am <img src="https://img.shields.io/badge/-Abhishek%20Kumar%20Singh-06b6d4?style=for-the-badge&labelColor=0f172a"/>
+
+<sub>`Cyber Security Student` · `Backend Developer` · `Linux & System Engineering`</sub>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=abhisingh0073&label=PROFILE%20VIEWS&color=1e3a8a&style=flat-square"/>
 <img src="https://img.shields.io/github/followers/abhisingh0073?style=flat-square&logo=github&label=FOLLOWERS&color=1e3a8a"/>
 <img src="https://img.shields.io/badge/Repositories-27-1e3a8a?style=flat-square&logo=github"/>
-
-<br/><br/>
-
-`Cyber Security Student` · `Backend Developer` · `Linux & System Engineering`
 
 </div>
 
@@ -72,7 +70,6 @@ Find the weakness. Fix it. Repeat.
 ---
 
 <div align="center">
-
   <a href="https://abhisingh0073.github.io/Portfolio-website/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
@@ -84,5 +81,4 @@ Find the weakness. Fix it. Repeat.
   <a href="https://x.com/Abhishe11767642">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-
 </div>
